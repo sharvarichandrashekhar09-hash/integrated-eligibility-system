@@ -27,8 +27,8 @@ public class AdminProvideBenefitServlet extends HttpServlet {
 
     // ── Email credentials ─────────────────────────────────────
     private static final String FROM_EMAIL    = "your_email@gmail.com";   // change this
-    private static final String FROM_PASSWORD = "your_app_password";       // change this
-
+    private static final String FROM_PASSWORD =
+        System.getenv("EMAIL_APP_PASSWORD");
     @Override
     protected void doPost(HttpServletRequest request,
                           HttpServletResponse response)

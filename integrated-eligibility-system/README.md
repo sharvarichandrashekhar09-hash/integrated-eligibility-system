@@ -79,7 +79,8 @@ The system helps manage government benefit programs through a centralized platfo
 
 ## Developed By
 
-Jui Aptikar
+Sharvari Somvanshi
 
-MCA Project
-Integrated Eligibility System
+MCA Project  
+Sinhgad Institute of Management, Pune  
+Savitribai Phule Pune University

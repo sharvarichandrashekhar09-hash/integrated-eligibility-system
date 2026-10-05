@@ -15,11 +15,11 @@ public class EmailUtility {
 
     // Sender Email
     private static final String FROM_EMAIL =
-            "aptikarjui@gmail.com";
+            "sharvarichandrashekhar09@gmail.com";
 
     // Gmail App Password
     private static final String PASSWORD =
-            "wlxanshxqwgcstrp";
+            "EMAIL_APP_PASSWORD";
 
     public static boolean sendOTP(String toEmail,
                                   String otp) {
